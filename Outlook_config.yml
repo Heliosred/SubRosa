@@ -1,1 +1,23 @@
 
+title: "Sub Rosa"
+description: "Materials science, engineering, and the hidden logic of matter."
+author: "SubRosa"
+email: "nematipin@proton.me"
+
+theme: minima
+
+# Optional site settings
+show_excerpts: true
+minima:
+  skin: auto          # Automatically switches dark/light
+  date_format: "%b %-d, %Y"
+
+# Add your social links (shows in header/footer)
+social_links:
+  github: yourusername
+  linkedin: your-linkedin-handle
+  rss: rss
+
+# Add navigation links to header
+header_pages:
+  - about.md
