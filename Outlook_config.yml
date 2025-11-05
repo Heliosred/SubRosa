@@ -21,3 +21,5 @@ social_links:
 # Add navigation links to header
 header_pages:
   - about.md
+  sass:
+  style: compressed
